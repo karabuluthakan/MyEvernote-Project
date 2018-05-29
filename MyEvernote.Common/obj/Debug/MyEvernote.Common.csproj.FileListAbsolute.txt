@@ -1,0 +1,8 @@
+C:\Users\pc\Desktop\Udemy-MyEvernote-Sample-Project-master\MyEvernote.Common\bin\Debug\MyEvernote.Common.dll
+C:\Users\pc\Desktop\Udemy-MyEvernote-Sample-Project-master\MyEvernote.Common\bin\Debug\MyEvernote.Common.pdb
+C:\Users\pc\Desktop\Udemy-MyEvernote-Sample-Project-master\MyEvernote.Common\obj\Debug\MyEvernote.Common.dll
+C:\Users\pc\Desktop\Udemy-MyEvernote-Sample-Project-master\MyEvernote.Common\obj\Debug\MyEvernote.Common.pdb
+C:\Users\pc\Desktop\Projelerim\MyEvernote-Project\MyEvernote.Common\bin\Debug\MyEvernote.Common.dll
+C:\Users\pc\Desktop\Projelerim\MyEvernote-Project\MyEvernote.Common\bin\Debug\MyEvernote.Common.pdb
+C:\Users\pc\Desktop\Projelerim\MyEvernote-Project\MyEvernote.Common\obj\Debug\MyEvernote.Common.dll
+C:\Users\pc\Desktop\Projelerim\MyEvernote-Project\MyEvernote.Common\obj\Debug\MyEvernote.Common.pdb
